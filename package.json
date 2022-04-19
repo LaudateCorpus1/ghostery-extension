@@ -113,7 +113,7 @@
     "jsonfile": "^6.1.0",
     "license-checker": "^25.0.1",
     "mini-css-extract-plugin": "^0.10.0",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "oboe": "^2.1.5",
     "path": "^0.12.7",
     "react-router": "^5.2.0",
