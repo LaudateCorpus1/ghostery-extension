@@ -80,7 +80,7 @@
     "rsvp": "^4.8.5",
     "spanan": "^2.0.0",
     "tldts-experimental": "^5.7.58",
-    "ua-parser-js": "^1.0.2",
+    "ua-parser-js": "^1.0.33",
     "underscore": "^1.13.1"
   },
   "devDependencies": {
